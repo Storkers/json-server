@@ -15,6 +15,12 @@
     {
       "id": "3",
       "nome": "Parque São Lourenço",
+      "latitude": -25.383884,
+      "longitude": -49.266176
+    },
+    {
+      "id": "3",
+      "nome": "Airsoft",
       "latitude": -25.4569343,
       "longitude": -49.2775011
     }
