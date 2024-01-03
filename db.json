@@ -7,6 +7,7 @@
       "latitude": -25.4736725,
       "longitude": -49.6108675,
       "imagem": "/Images/ski.jpg"
+      "description": "Nao faço ideia do que tem"
     },
     {
       "id": "2",
@@ -15,6 +16,7 @@
       "latitude": -25.4569343,
       "longitude": -49.2775011,
       "imagem": "/Images/ski.jpg"
+      "description": "Um parque com muitas arvores e uma grande estufa"
     },
     {
       "id": "3",
@@ -23,6 +25,7 @@
       "latitude": -25.383884,
       "longitude": -49.266176,
       "imagem": "/Images/ski.jpg"
+      "description": "Um parque em que nao te deixam andar de bike"
     },
     {
       "id": "4",
@@ -31,6 +34,7 @@
       "latitude": -25.4757,
       "longitude": -49.3785,
       "imagem": "/Images/ski.jpg"
+      "description": "Nao conheço"
     },
     {
       "id": "5",
@@ -39,14 +43,16 @@
       "latitude": -25.4288,
       "longitude": -49.3092,
       "imagem": "/Images/ski.jpg"
+      "description": "Um parque com lago e muitas arvores"
     },
     {
       "id": "5",
-      "nome": "Parque Barigui",
+      "nome": "Parque Desconhecido",
       "categoria": "corrida",
       "latitude": -25.4180697,
       "longitude": -49.7335041,
       "imagem": "/Images/ski.jpg"
+      "description": "Onde fica?"
     }
   ]
 }
