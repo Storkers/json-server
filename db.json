@@ -5,42 +5,48 @@
       "nome": "Parque Newton Puppi",
       "categoria": "caminhada",
       "latitude": -25.4736725,
-      "longitude": -49.6108675
+      "longitude": -49.6108675,
+      "imagem": "/Images/ski.jpg"
     },
     {
       "id": "2",
       "nome": "Jardim Botanico",
       "categoria": "caminhada",
       "latitude": -25.4569343,
-      "longitude": -49.2775011
+      "longitude": -49.2775011,
+      "imagem": "/Images/ski.jpg"
     },
     {
       "id": "3",
       "nome": "Parque São Lourenço",
       "categoria": "caminhada",
       "latitude": -25.383884,
-      "longitude": -49.266176
+      "longitude": -49.266176,
+      "imagem": "/Images/ski.jpg"
     },
     {
       "id": "4",
       "nome": "Mirante de Passauna",
       "categoria": "passeio",
       "latitude": -25.4757,
-      "longitude": -49.3785
+      "longitude": -49.3785,
+      "imagem": "/Images/ski.jpg"
     },
     {
       "id": "5",
       "nome": "Parque Barigui",
       "categoria": "passeio",
       "latitude": -25.4288,
-      "longitude": -49.3092
+      "longitude": -49.3092,
+      "imagem": "/Images/ski.jpg"
     },
     {
       "id": "5",
       "nome": "Parque Barigui",
       "categoria": "corrida",
       "latitude": -25.4180697,
-      "longitude": -49.7335041
+      "longitude": -49.7335041,
+      "imagem": "/Images/ski.jpg"
     }
   ]
 }
