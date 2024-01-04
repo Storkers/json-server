@@ -6,7 +6,8 @@
       "categoria": "caminhada",
       "latitude": -25.4736725,
       "longitude": -49.6108675,
-      "imagem": "/Images/ski.jpg"
+      "imagem": "/Images/ski.jpg",
+      "sinopse": "Nao conheco"
     },
     {
       "id": "2",
@@ -14,7 +15,8 @@
       "categoria": "caminhada",
       "latitude": -25.4569343,
       "longitude": -49.2775011,
-      "imagem": "/Images/ski.jpg"
+      "imagem": "/Images/ski.jpg",
+      "sinopse": "Nao conheco"
     },
     {
       "id": "3",
@@ -22,7 +24,8 @@
       "categoria": "caminhada",
       "latitude": -25.383884,
       "longitude": -49.266176,
-      "imagem": "/Images/ski.jpg"
+      "imagem": "/Images/ski.jpg",
+      "sinopse": "Nao conheco"
     },
     {
       "id": "4",
@@ -30,7 +33,8 @@
       "categoria": "passeeio",
       "latitude": -25.4757,
       "longitude": -49.3785,
-      "imagem": "/Images/ski.jpg"
+      "imagem": "/Images/ski.jpg",
+      "sinopse": "Nao conheco"
     },
     {
       "id": "5",
@@ -38,7 +42,8 @@
       "categoria": "passeio",
       "latitude": -25.4288,
       "longitude": -49.3092,
-      "imagem": "/Images/ski.jpg"
+      "imagem": "/Images/ski.jpg",
+      "sinopse": "Nao conheco"
     },
     {
       "id": "5",
@@ -46,7 +51,8 @@
       "categoria": "corrida",
       "latitude": -25.4180697,
       "longitude": -49.7335041,
-      "imagem": "/Images/ski.jpg"
+      "imagem": "/Images/ski.jpg",
+      "sinopse": "Nao conheco"
     }
   ]
 }
