@@ -8,7 +8,8 @@
       "longitude": -49.6108675,
       "imagem": "/Images/ski.jpg",
       "sinopse": "Nao conheco",
-      "valor": "Gratuito"
+      "valor": "Gratuito",
+      "estrelas": 3
     },
     {
       "id": "2",
@@ -18,7 +19,8 @@
       "longitude": -49.2775011,
       "imagem": "/Images/ski.jpg",
       "sinopse": "Nao conheco",
-      "valor": "Gratuito"
+      "valor": "Gratuito",
+      "estrelas": 3
     },
     {
       "id": "3",
@@ -28,7 +30,8 @@
       "longitude": -49.266176,
       "imagem": "/Images/ski.jpg",
       "sinopse": "Nao conheco",
-      "valor": "Gratuito"
+      "valor": "Gratuito",
+      "estrelas": 3
     },
     {
       "id": "4",
@@ -38,7 +41,8 @@
       "longitude": -49.3785,
       "imagem": "/Images/ski.jpg",
       "sinopse": "Nao conheco",
-      "valor": "Gratuito"
+      "valor": "Gratuito",
+      "estrelas": 3
     },
     {
       "id": "5",
@@ -48,7 +52,8 @@
       "longitude": -49.3092,
       "imagem": "/Images/ski.jpg",
       "sinopse": "Nao conheco",
-      "valor": "Gratuito"
+      "valor": "Gratuito",
+      "estrelas": 3
     },
     {
       "id": "5",
@@ -58,7 +63,8 @@
       "longitude": -49.7335041,
       "imagem": "/Images/ski.jpg",
       "sinopse": "Nao conheco",
-      "valor": "Gratuito"
+      "valor": "Gratuito",
+      "estrelas": 3
     }
   ]
 }
