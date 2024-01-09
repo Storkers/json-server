@@ -13,13 +13,13 @@
     },
     {
       "id": "2",
-      "nome": "Jardim Botanico",
+      "nome": "Shoppin Curitiba",
       "categoria": "caminhada",
       "latitude": -25.4569343,
       "longitude": -49.2775011,
       "imagem": "/Images/ski.jpg",
       "sinopse": "Nao conheco",
-      "valor": "Gratuito",
+      "valor": "$$$",
       "estrelas": 3
     },
     {
