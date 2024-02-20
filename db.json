@@ -65,6 +65,17 @@
       "sinopse": "Nao conheco",
       "valor": "Gratuito",
       "estrelas": 3
+    },
+    {
+      "id": "5",
+      "nome": "Parque dos Araças",
+      "categoria": "corrida",
+      "latitude": -25.4180697,
+      "longitude": -49.7335041,
+      "imagem": "https://github.com/Storkers/json-server/blob/main/Images/ski.jpg?raw=true",
+      "sinopse": "Nao conheco",
+      "valor": "Gratuito",
+      "estrelas": 3
     }
   ]
 }
