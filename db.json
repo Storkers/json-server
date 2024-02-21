@@ -6,7 +6,9 @@
       "categoria": "caminhada",
       "latitude": -25.4736725,
       "longitude": -49.6108675,
+      "cidade": "Bombinhas",
       "imagem": "https://firebasestorage.googleapis.com/v0/b/findex-7b4a1.appspot.com/o/Parque%20New%20Puppi%2F20180608-072927-hdr-largejpg.jpg?alt=media&token=17a79010-40b4-4a01-a023-4081b7d2908d",
+      "imagem2": "https://firebasestorage.googleapis.com/v0/b/findex-7b4a1.appspot.com/o/Santa%20Catarina%2F267680501.jpg?alt=media&token=492f10c6-e76f-4c6b-8289-f6d7a7f0187d",
       "sinopse": "Nao conheco",
       "valor": "Gratuito",
       "estrelas": 3
@@ -17,7 +19,9 @@
       "categoria": "caminhada",
       "latitude": -25.4569343,
       "longitude": -49.2775011,
+      "cidade": "Balneario",
       "imagem": "https://firebasestorage.googleapis.com/v0/b/findex-7b4a1.appspot.com/o/Shopping%2FShoppingCuritiba270918_fotoPriscillaFiedler-170-baixa.jpg?alt=media&token=5354cbfa-2fd2-47f2-ac6a-a3be018752d8",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/findex-7b4a1.appspot.com/o/Santa%20Catarina%2Fbarra-sul-22-10-2021-327-1.jpg?alt=media&token=1c33976e-94e7-4c92-acfa-a29777f25745",
       "sinopse": "Nao conheco",
       "valor": "$$$",
       "estrelas": 3
@@ -28,7 +32,9 @@
       "categoria": "caminhada",
       "latitude": -25.383884,
       "longitude": -49.266176,
+      "cidade": "Itapema",
       "imagem": "https://firebasestorage.googleapis.com/v0/b/findex-7b4a1.appspot.com/o/Museo%20Oscar%20Niemayer%2Fcredito_-_lucas_pontes.jpg?alt=media&token=9086f551-0f3e-422a-bfec-9c88aa206390",
+      "imagem2": "https://firebasestorage.googleapis.com/v0/b/findex-7b4a1.appspot.com/o/Santa%20Catarina%2Fbarra-sul-22-10-2021-327-1.jpg?alt=media&token=1c33976e-94e7-4c92-acfa-a29777f25745",
       "sinopse": "Nao conheco",
       "valor": "Gratuito",
       "estrelas": 3
@@ -39,7 +45,9 @@
       "categoria": "passeeio",
       "latitude": -25.4757,
       "longitude": -49.3785,
+      "cidade": "Curitiba",
       "imagem": "https://firebasestorage.googleapis.com/v0/b/findex-7b4a1.appspot.com/o/Parque%20Tangua%2F00325649.jpg?alt=media&token=6b542235-34c8-498e-b441-b048774434f2",
+      "imagem2": "https://firebasestorage.googleapis.com/v0/b/findex-7b4a1.appspot.com/o/Santa%20Catarina%2F267680501.jpg?alt=media&token=492f10c6-e76f-4c6b-8289-f6d7a7f0187d",
       "sinopse": "Nao conheco",
       "valor": "Gratuito",
       "estrelas": 3
@@ -50,7 +58,9 @@
       "categoria": "passeio",
       "latitude": -25.4288,
       "longitude": -49.3092,
+      "cidade": "Campinas",
       "imagem": "https://firebasestorage.googleapis.com/v0/b/findex-7b4a1.appspot.com/o/Parque%20Barigui%2FBarigui_Parque-960x540.jpg?alt=media&token=22d356ff-0d58-48ae-af68-fa05a4d169d3",
+      "imagem2": "https://firebasestorage.googleapis.com/v0/b/findex-7b4a1.appspot.com/o/Santa%20Catarina%2Fbarra-sul-22-10-2021-327-1.jpg?alt=media&token=1c33976e-94e7-4c92-acfa-a29777f25745",
       "sinopse": "Nao conheco",
       "valor": "Gratuito",
       "estrelas": 3
@@ -61,7 +71,9 @@
       "categoria": "corrida",
       "latitude": -25.4180697,
       "longitude": -49.7335041,
+      "cidade": "Cascavel",
       "imagem": "https://firebasestorage.googleapis.com/v0/b/findex-7b4a1.appspot.com/o/Parque%20municipal%20do%20Passauna%2F00247959.jpg?alt=media&token=72139f58-d097-4717-b358-7f2fa6586321",
+      "imagem2": "https://firebasestorage.googleapis.com/v0/b/findex-7b4a1.appspot.com/o/Santa%20Catarina%2F267680501.jpg?alt=media&token=492f10c6-e76f-4c6b-8289-f6d7a7f0187d",
       "sinopse": "Nao conheco",
       "valor": "Gratuito",
       "estrelas": 3
@@ -72,7 +84,9 @@
       "categoria": "corrida",
       "latitude": -25.4180697,
       "longitude": -49.7335041,
+      "cidade": "Maringa",
       "imagem": "https://github.com/Storkers/json-server/blob/main/Images/ski.jpg?raw=true",
+      "imagem2": "https://firebasestorage.googleapis.com/v0/b/findex-7b4a1.appspot.com/o/Santa%20Catarina%2F267680501.jpg?alt=media&token=492f10c6-e76f-4c6b-8289-f6d7a7f0187d",
       "sinopse": "Nao conheco",
       "valor": "Gratuito",
       "estrelas": 3
