@@ -1,1 +1,14 @@
-
+{
+  { 
+      "id":"123",
+      "cidade": "Sao Pualo",
+    },
+  { 
+      "id":"124",
+      "cidade": "Curitiba",
+    },
+  { 
+      "id":"125",
+      "cidade": "Florianopolis",
+    },
+}
