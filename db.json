@@ -1,28 +1,28 @@
 {
-"genres":[
+  "genres": [
     {
-        "id":"12",
-        "nome": "surf"
+      "id": "12",
+      "nome": "surf"
     },
     {
-        "id":"13",
-        "nome": "caminhada"
+      "id": "13",
+      "nome": "caminhada"
     },
     {
-        "id":"14",
-        "nome": "trilha"
+      "id": "14",
+      "nome": "trilha"
     }
-],
-"parana":[
-    { 
-      "id":"1",
+  ],
+  "parana": [
+    {
+      "id": "1",
       "title": "Parque Newton Puppi",
-      "genreid": 13,
+      "genreid": "13",
       "latitude": -25.4736725,
       "longitude": -49.6108675,
       "city": "Sao Pualo",
-        "state":"Parana",
-        "element": "earth",
+      "state": "Parana",
+      "element": "earth",
       "posterPath": "https://firebasestorage.googleapis.com/v0/b/findex-7b4a1.appspot.com/o/Parque%20New%20Puppi%2F20180608-072927-hdr-largejpg.webp?alt=media&token=924d5e6e-18d9-4663-8feb-993d6a6a1754",
       "price": "Gratuito",
       "voteAverage": 3.5
@@ -30,12 +30,12 @@
     {
       "id": "2",
       "title": "Praia Brava",
-      "genreid": 14,
+      "genreid": "14",
       "latitude": -25.4569343,
       "longitude": -49.2775011,
       "city": "Balneario",
-        "state":"Santa Catarina",
-        "element": "earth",
+      "state": "Santa Catarina",
+      "element": "earth",
       "posterPath": "https://firebasestorage.googleapis.com/v0/b/findex-7b4a1.appspot.com/o/Shopping%2FShoppingCuritiba270918_fotoPriscillaFiedler-170-baixa.webp?alt=media&token=cb3cb094-ced3-48c1-a01f-89bd4db37246",
       "price": "$$$",
       "voteAverage": 3.5
@@ -43,12 +43,12 @@
     {
       "id": "3",
       "title": "Museu Oscar Niemeyer",
-      "genreid": 14,
+      "genreid": "14",
       "latitude": -25.383884,
       "longitude": -49.266176,
       "city": "Itapema",
-        "state":"Parana",
-        "element": "air",
+      "state": "Parana",
+      "element": "air",
       "posterPath": "https://firebasestorage.googleapis.com/v0/b/findex-7b4a1.appspot.com/o/Museo%20Oscar%20Niemayer%2Fcredito_-_lucas_pontes.jpg?alt=media&token=9086f551-0f3e-422a-bfec-9c88aa206390",
       "price": "Gratuito",
       "voteAverage": 3.5
@@ -56,12 +56,12 @@
     {
       "id": "4",
       "title": "Parque Tangua",
-      "genreid": 12,
+      "genreid": "12",
       "latitude": -25.4757,
       "longitude": -49.3785,
       "city": "Curitiba",
-        "state":"Parana",
-        "element": "earth",
+      "state": "Parana",
+      "element": "earth",
       "posterPath": "https://firebasestorage.googleapis.com/v0/b/findex-7b4a1.appspot.com/o/Parque%20Tangua%2F00325649.jpg?alt=media&token=6b542235-34c8-498e-b441-b048774434f2",
       "price": "Gratuito",
       "voteAverage": 3.5
@@ -69,25 +69,25 @@
     {
       "id": "5",
       "title": "Parque Barigui",
-      "genreid": 12,
+      "genreid": "12",
       "latitude": -25.4288,
       "longitude": -49.3092,
       "city": "Campinas",
-        "state":"Parana",
-        "element": "water",
+      "state": "Parana",
+      "element": "water",
       "posterPath": "https://firebasestorage.googleapis.com/v0/b/findex-7b4a1.appspot.com/o/Parque%20Barigui%2Fpaisagem.webp?alt=media&token=b96a3f93-d7e4-41ee-b51f-d3a482c20ddb",
-       "price": "Gratuito",
+      "price": "Gratuito",
       "voteAverage": 3.5
     },
     {
       "id": "6",
       "title": "Parque Municipal de Passauna",
-      "genreid": 14,
+      "genreid": "14",
       "latitude": -25.4180697,
       "longitude": -49.7335041,
       "city": "Cascavel",
-        "state":"Parana",
-        "element": "water",
+      "state": "Parana",
+      "element": "water",
       "posterPath": "https://firebasestorage.googleapis.com/v0/b/findex-7b4a1.appspot.com/o/Parque%20Barigui%2Fsandboard.webp?alt=media&token=a57a2554-4df2-4165-aa6c-4fb4f27b869f",
       "price": "Gratuito",
       "voteAverage": 3.5
@@ -95,12 +95,12 @@
     {
       "id": "7",
       "title": "Parque dos Araças",
-      "genreid": 12,
+      "genreid": "12",
       "latitude": -25.4180697,
       "longitude": -49.7335041,
       "city": "Maringa",
-        "state":"Parana",
-        "element": "water",
+      "state": "Parana",
+      "element": "water",
       "posterPath": "https://firebasestorage.googleapis.com/v0/b/findex-7b4a1.appspot.com/o/Parque%20Barigui%2FMorroCanal.webp?alt=media&token=4c7503c8-c1a4-4a22-aced-b89eaa9a455f",
       "price": "Gratuito",
       "voteAverage": 3.5
