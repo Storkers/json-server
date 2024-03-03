@@ -1,5 +1,6 @@
 {
-  { 
+  "cidade":[
+    { 
       "id":"123",
       "cidade": "Sao Pualo",
     },
@@ -10,5 +11,6 @@
   { 
       "id":"125",
       "cidade": "Florianopolis",
-    },
+    }
+  ]
 }
