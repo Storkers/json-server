@@ -2,15 +2,15 @@
   "genres": [
     {
       "id": "12",
-      "nome": "surf"
+      "name": "surf"
     },
     {
       "id": "13",
-      "nome": "caminhada"
+      "name": "caminhada"
     },
     {
       "id": "14",
-      "nome": "trilha"
+      "name": "trilha"
     }
   ],
   "parana": [
