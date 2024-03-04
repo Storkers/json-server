@@ -1,5 +1,5 @@
 {
-  "genres": {
+  "genres": [
     {
       "id": 1,
       "nome": "Ação"
@@ -24,7 +24,8 @@
       "id": 6,
       "nome": "Animação"
     }
-  }
+  ]
 }
+
   
 
