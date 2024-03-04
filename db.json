@@ -1,5 +1,5 @@
 {
-  "genres": [
+  "genres": {
     {
       "id": "12",
       "nome": "surf"
@@ -12,5 +12,5 @@
       "id": "14",
       "nome": "trilha"
     }
-  ]
+  }
 }
