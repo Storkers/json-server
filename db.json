@@ -1,8 +1,7 @@
 {
-  "genres": [
-     {
-       "id": "12",
-       "nome": "surf"
-     }
-  ]
+  "genres": {
+    "12": "surf",
+    "13": "caminhada",
+    "14": "trilha"
+  }
 }
