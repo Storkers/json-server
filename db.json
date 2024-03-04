@@ -1,31 +1,27 @@
 {
-  "genres": [
-    {
-      "id": 1,
+  "genres": {
+    "1": {
       "nome": "Ação"
     },
-    {
-      "id": 2,
+    "2": {
       "nome": "Comédia"
     },
-    {
-      "id": 3,
+    "3": {
       "nome": "Drama"
     },
-    {
-      "id": 4,
+    "4": {
       "nome": "Ficção Científica"
     },
-    {
-      "id": 5,
+    "5": {
       "nome": "Suspense"
     },
-    {
-      "id": 6,
+    "6": {
       "nome": "Animação"
     }
-  ]
+  }
 }
+
+
 
   
 
