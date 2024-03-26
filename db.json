@@ -265,7 +265,7 @@
       "schedule": "08:00 ás 18:00",
       "description": "Espetáculo de beleza natural e energia vibrante, proporcionando aos visitantes uma experiência única de admiração e conexão com a natureza",
       "element": "earth",
-      "posterPath": https://firebasestorage.googleapis.com/v0/b/marketplace-62228.appspot.com/o/Lugares%2FSalto%20S%C3%A3o%20Francisco.jpg?alt=media&token=c93364d8-ad6c-489d-ab04-034dadec6ee9",
+      "posterPath": "https://firebasestorage.googleapis.com/v0/b/marketplace-62228.appspot.com/o/Lugares%2FSalto%20S%C3%A3o%20Francisco.jpg?alt=media&token=c93364d8-ad6c-489d-ab04-034dadec6ee9",
       "price": "Gratuito",
       "voteAverage": 3.5
     },
@@ -282,7 +282,7 @@
       "schedule": "24 Horas",
       "description": "Uma deslumbrante queda d'água, onde as águas fluem com ímpeto e vigor, criando um espetáculo de beleza selvagem e energia revigorante",
       "element": "earth",
-      "posterPath": https://firebasestorage.googleapis.com/v0/b/marketplace-62228.appspot.com/o/Lugares%2FSalto%20Tombo%20D%C3%A1gua.jpg?alt=media&token=5fb2e374-02a4-4b13-84ab-2ab82ef8b1ed",
+      "posterPath": "https://firebasestorage.googleapis.com/v0/b/marketplace-62228.appspot.com/o/Lugares%2FSalto%20Tombo%20D%C3%A1gua.jpg?alt=media&token=5fb2e374-02a4-4b13-84ab-2ab82ef8b1ed",
       "price": "Gratuito",
       "voteAverage": 3.5
     }
