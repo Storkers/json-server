@@ -200,6 +200,23 @@
       "posterPath": "https://firebasestorage.googleapis.com/v0/b/marketplace-62228.appspot.com/o/Lugares%2FCachoeira%20Arco%20Iris.JPG?alt=media&token=be04cbe9-e197-4b0a-b8eb-e7eef60e032a",
       "price": "Gratuito",
       "voteAverage": 3.5
+    },
+    {
+      "id": "12",
+      "title": "Cachoeira da Mata",
+      "genreid": "12",
+      "categoria":"Cachoeira",
+      "latitude": -25.4180697,
+      "longitude": -49.7335041,
+      "city": "Sapopema",
+      "state": "Parana",
+      "address":"Rua das Palmeiras, 90",
+      "schedule": "24 Horas",
+      "description": "Um refúgio tranquilo, onde as águas fluem suavemente entre a exuberante vegetação, criando um ambiente sereno e rejuvenescedor",
+      "element": "earth",
+      "posterPath": "https://firebasestorage.googleapis.com/v0/b/marketplace-62228.appspot.com/o/Lugares%2FCachoeira%20da%20Mata.jpg?alt=media&token=1cb24a69-ef9a-4c34-b7f3-be8773a72032",
+      "price": "Gratuito",
+      "voteAverage": 3.5
     }
   ]
 }
