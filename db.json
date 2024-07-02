@@ -1,18 +1,4 @@
 {
-  "genres": [
-    {
-      "id": "12",
-      "nome": "surf"
-    },
-    {
-      "id": "13",
-      "nome": "caminhada"
-    },
-    {
-      "id": "14",
-      "nome": "trilha"
-    }
-  ],
   "parana": [
     {
       "id": "1",
